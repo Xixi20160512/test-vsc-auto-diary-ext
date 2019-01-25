@@ -1,0 +1,1 @@
+# test-vsc-auto-diary-ext
